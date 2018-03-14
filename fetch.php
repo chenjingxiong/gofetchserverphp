@@ -1,8 +1,8 @@
 <?php
 
-$__author__   = 'phus.lu@gmail.com';
+$__author__   = 'my@gmail.com';
 $__version__  = '1.7.10';
-$__password__ = '';
+$__password__ = '123456';
 
 function encode_data($dic) {
     $a = array();
