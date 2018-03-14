@@ -391,27 +391,10 @@ function get() {
 <head>
     <link rel="icon" type="image/vnd.microsoft.icon" href="http://www.google.cn/favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>GoAgent PHP Server ${__version__} &#x5DF2;&#x7ECF;&#x5728;&#x5DE5;&#x4F5C;&#x4E86;</title>
+    <title>GoPHPServer</title>
 </head>
 <body>
-    <table width="800" border="0" align="center">
-        <tr><td align="center"><hr></td></tr>
-        <tr><td align="center">
-            <b><h1>GoAgent PHP Server ${__version__} &#x5DF2;&#x7ECF;&#x5728;&#x5DE5;&#x4F5C;&#x4E86;</h1></b>
-        </td></tr>
-        <tr><td align="center"><hr></td></tr>
-
-        <tr><td align="center">
-            GoAgent&#x662F;&#x4E00;&#x4E2A;&#x5F00;&#x6E90;&#x7684;HTTP Proxy&#x8F6F;&#x4EF6;, &#x4F7F;&#x7528;PHP/Python&#x7F16;&#x5199;, &#x8FD0;&#x884C;&#x4E8E;PHP Hosting&#x5E73;&#x53F0;&#x4E0A;.
-        </td></tr>
-        <tr><td align="center"><hr></td></tr>
-
-        <tr><td align="center">
-            &#x66F4;&#x591A;&#x76F8;&#x5173;&#x4ECB;&#x7ECD;, &#x8BF7;&#x53C2;&#x8003;<a href="http://code.google.com/p/goagent/">GoAgent&#x9879;&#x76EE;&#x4E3B;&#x9875;</a>.
-        </td></tr>
-        <tr><td align="center"><hr></td></tr>
-
-    </table>
+    GoPHPServer
 </body>
 </html>
 
